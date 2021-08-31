@@ -8,7 +8,7 @@
 
 [Ejercicios básicos de Python](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Ej_Python_1872932.ipynb)
 
-[Avance Base Principal](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/AVANCE1_BASE_DATOS_PRINCIPAL.ipynb)
+[Avance 1 - PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/AVANCE1_PIA_Equipo8.ipynb)
 
-[Avance Base Secundaria](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/AVANCE1_BASE_DATOS_SECUNDARIA.ipynb)
+
 
