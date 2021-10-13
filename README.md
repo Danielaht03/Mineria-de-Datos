@@ -22,6 +22,7 @@
 * [Ejemplo de Metricas de Evaluación](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Ejemplo_Metricas_de_Evaluacion_Eq8.ipynb) 
 
 [Practica de Visualización de Bases de Datos](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Visualizaci%C3%B3n_Equipo8%20.ipynb)
+
 [Avance 2 - PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/AvanceII_002_Equipo08.ipynb) 
 
 
