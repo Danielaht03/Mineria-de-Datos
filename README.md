@@ -25,6 +25,10 @@
 
 [Avance 2 - PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/AvanceII_002_Equipo08.ipynb) 
 
+[Ejercicio de tecnicas de mineria](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Ejercicio%20de%20tecnicas%20de%20mineria.ipynb)
+
+
+
 
 
 
