@@ -27,6 +27,7 @@
 
 [Avance 2 - PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/AvanceII_002_Equipo08.ipynb) 
 
+[Notebook](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Notebook_002_Equipo08%20.ipynb)
 
 
 
