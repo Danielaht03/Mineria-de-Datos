@@ -27,7 +27,13 @@
 
 [Avance 2 - PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/AvanceII_002_Equipo08.ipynb) 
 
+##FASE 3
+
 [Notebook](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/Notebook_002_Equipo08%20.ipynb)
+
+[PIA](https://github.com/Danielaht03/Mineria-de-Datos/blob/main/SE%20FUNDE%20UN%20FOCO.png) 
+
+
 
 
 
